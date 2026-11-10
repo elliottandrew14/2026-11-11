@@ -1,0 +1,117 @@
+---
+{"dg-publish":true,"permalink":"/non.canvas/","contentClasses":"canvas-page","dg-note-properties":{}}
+---
+
+<div id="noncanvas" class="canvas-wrapper hide">
+	<svg class="canvas-background">
+		<defs>
+			<pattern id="canvas-grid-noncanvas" width="25" height="25" patternUnits="userSpaceOnUse">
+				<circle r="1.5" cx="12.5" cy="12.5"></circle>
+			</pattern>
+		</defs>
+		<rect width="100%" height="100%" fill="url(#canvas-grid-noncanvas)"></rect>
+	</svg>
+	<div class="canvas">
+		<svg class="canvas-edges-container" style="position:absolute;width:1px;height:1px;overflow:visible;">
+			<defs><filter x="-0.1" y="-0.1" width="1.2" height="1.3" id="edge-label-bg">
+			<feFlood flood-color="var(--background-primary)" flood-opacity="1" result="bg"/>
+			<feMerge>
+				<feMergeNode in="bg"/>
+				<feMergeNode in="SourceGraphic"/>
+			</feMerge>
+		</filter></defs>
+		</svg>
+		<div class="canvas-node canvas-node-file " data-node-id="f2f7f9ca2674ace4" data-file-path="01M1YQ7888B9KRFNB9222002MM.mov" style="transform: translate(-560px, -220px); width: 400px; height: 225px; ">
+	<div class="canvas-node-label">01M1YQ7888B9KRFNB9222002MM.mov</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/01-m1-yq-7888-b9-krfnb-9222002-mm//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="f322cf79d86f459f" data-file-path="01M2ZYAKCRJZ3YR0N2HR89KDXC.mp4" style="transform: translate(-1180px, -940px); width: 400px; height: 225px; ">
+	<div class="canvas-node-label">01M2ZYAKCRJZ3YR0N2HR89KDXC.mp4</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/01-m2-zyakcrjz-3-yr-0-n2-hr-89-kdxc//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="f3dd66d8717092af" data-file-path="01M4C1GN0G5723KGD9FCNKQNWF.mp4" style="transform: translate(-740px, -940px); width: 400px; height: 225px; ">
+	<div class="canvas-node-label">01M4C1GN0G5723KGD9FCNKQNWF.mp4</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/01-m4-c1-gn-0-g5723-kgd-9-fcnkqnwf//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="e5522d5dd3776d1e" data-file-path="01M4HDWWHG8KX5KCG7V74K82TB.mp4" style="transform: translate(-300px, -940px); width: 400px; height: 225px; ">
+	<div class="canvas-node-label">01M4HDWWHG8KX5KCG7V74K82TB.mp4</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/01-m4-hdwwhg-8-kx-5-kcg-7-v74-k82-tb//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="08d21f77c7568551" data-file-path="01M4HV620G9947N54NTSKP57N4.mp4" style="transform: translate(140px, -940px); width: 400px; height: 225px; ">
+	<div class="canvas-node-label">01M4HV620G9947N54NTSKP57N4.mp4</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/01-m4-hv-620-g9947-n54-ntskp-57-n4//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="1e8aaf4bd6c6229d" style="transform: translate(600px, -940px); width: 400px; height: 267px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/01M6PD62QA25VTA8EFTZ2J33XE.jpg" alt="01M6PD62QA25VTA8EFTZ2J33XE.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="f8c0bee533c809f3" style="transform: translate(1040px, -940px); width: 400px; height: 267px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/01M6PDE7MFNMT176X5D3EXYVNC.jpg" alt="01M6PDE7MFNMT176X5D3EXYVNC.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="b9d4ef3308da3384" data-file-path="Comp 1.mp4" style="transform: translate(-2080px, -940px); width: 400px; height: 267px; ">
+	<div class="canvas-node-label">Comp 1.mp4</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/comp-1//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="bb03bbea63909760" data-file-path="01M32BCW9GF2XRP0GKP7RNWSB52.mp4" style="transform: translate(-2080px, -500px); width: 400px; height: 225px; ">
+	<div class="canvas-node-label">01M32BCW9GF2XRP0GKP7RNWSB52.mp4</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/01-m32-bcw-9-gf-2-xrp-0-gkp-7-rnwsb-52//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="39bafe7bb9bcaa0c" style="transform: translate(1480px, -940px); width: 400px; height: 267px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/01M6PDHT5A5D69RYX5VD9D7N42.jpg" alt="01M6PDHT5A5D69RYX5VD9D7N42.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file canvas-node-image " data-node-id="bb26a66fcdca8f13" style="transform: translate(1920px, -940px); width: 400px; height: 267px; ">
+	<div class="canvas-node-container">
+		<div class="canvas-node-content image-embed">
+			<img src="/img/user/01M6PDX0X6851PM64Z0QM1VQAD.jpg" alt="01M6PDX0X6851PM64Z0QM1VQAD.jpg" loading="lazy" />
+		</div>
+	</div>
+</div>
+<div class="canvas-node canvas-node-file " data-node-id="0fd8cd791daf24c1" data-file-path="01M2CGQ7YRKHGNK5G03Y46C95M.mp4" style="transform: translate(-1200px, -220px); width: 400px; height: 225px; ">
+	<div class="canvas-node-label">01M2CGQ7YRKHGNK5G03Y46C95M.mp4</div>
+	<div class="canvas-node-container">
+		<div class="canvas-node-content markdown-embed">
+			<iframe src="/01-m2-cgq-7-yrkhgnk-5-g03-y46-c95-m//" class="canvas-file-iframe" loading="lazy"></iframe>
+		</div>
+	</div>
+</div>
+	</div>
+</div>
